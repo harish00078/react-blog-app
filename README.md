@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# firebase deploy link of the application:
+https://react-hooks-blog-bdbda.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
